@@ -1,6 +1,6 @@
 # Flexbox
 
-This webpage is hosted here ![tnm](https://tnm.mait.ac.in/perk.html)
+This webpage is hosted here [tnm/perks](https://tnm.mait.ac.in/perk.html)
 
 This wepage has been created for my college's fest website, and uses the css flex-box concept to be made
 
